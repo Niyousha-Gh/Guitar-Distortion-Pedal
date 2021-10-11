@@ -4,29 +4,21 @@ This is a clone of the guvnor distortion pedal for electric guitar of Marshall c
 <br/>
 <br/>
 
-project 1
-<br/>
-<br/>
-![Alt Text](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png)
-<br/>
-
-![Alt Text](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/pcb.png)
-<br/>
-<br/>
-
-project 2
-<br/>
-[youtube link](https://youtu.be/G4wT8VkVze4)
-![Alt Text](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/printed%20pcb%203.png)
-<br/>
-
-![Alt Text](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/assembled%20board.png)
-<br/>
-<br/>
-
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png">
+    
+    schematic
     <br/>
-    hgh
+    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png">
+    
+    PCB and assempled board
+    <br/>
+    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/pcb.png">
+    
+    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/printed%20pcb%203.png">
+    
+    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/assembled%20board.png">
+    
+    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png">
+    
 </p>
 
