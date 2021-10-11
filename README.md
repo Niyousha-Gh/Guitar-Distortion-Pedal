@@ -1,5 +1,7 @@
 # Guitar-Distortion-Pedal
-This is a clone of the guvnor distortion pedal for electric guitar of Marshall company. It's been designed using Altium Designer, 5 volume potentiometers and the dual op-amp TL072 cp ic to boost the sound signal.
+This is a clone of the guvnor distortion pedal for electric guitar of Marshall company. It's been designed using Altium Designer, 5 volume potentiometers and the dual op-
+
+amp TL072 cp ic to boost the sound signal.
 
 <br/>
 <br/>
@@ -9,7 +11,7 @@ This is a clone of the guvnor distortion pedal for electric guitar of Marshall c
     schematic
     <br/>
     <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png">
-    
+    </p>
     PCB and assempled board
     <br/>
     <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/pcb.png">
