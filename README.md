@@ -5,7 +5,9 @@ amp TL072 cp ic to boost the sound signal.
 
 <br/>
 <br/>
-<img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png">
+<br/>
+![Alt Text](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png)
+<br/>
 
 <p align="center" width="100%">
     
