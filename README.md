@@ -29,4 +29,7 @@ project 3
 [youtube link](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png)
 <br/>
 
+<p align="left" width="100%">
+    <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png">
+</p>
 
