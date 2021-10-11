@@ -24,12 +24,8 @@ project 2
 <br/>
 <br/>
 
-project 3
-<br/>
-[youtube link](https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png)
-<br/>
-
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png">
+    hgh
 </p>
 
