@@ -26,6 +26,7 @@ project 2
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/overview.png">
+    <br/>
     hgh
 </p>
 
