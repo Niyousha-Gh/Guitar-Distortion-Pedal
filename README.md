@@ -4,7 +4,7 @@ This is a clone of the guvnor distortion pedal for electric guitar of Marshall c
 <p align="center">
   
   schematic
-  <br/>
+  
   <img src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/schematic.png">
 </p>
 
