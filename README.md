@@ -15,6 +15,9 @@ This is a clone of the guvnor distortion pedal for electric guitar of Marshall c
 <br/>
 <p align="center"> 
   
+  <img src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/test%20schematic.png">
+  <br/>
+  <br/>
   <img src="https://github.com/Niyousha-Gh/Guitar-Distortion-Pedal/blob/main/pcb.png">
   <br/>
   <br/>
